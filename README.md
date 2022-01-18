@@ -4,8 +4,7 @@
 
 <div align="center">
   <h1> Um user ai</h1>
-  <img background="white" height="100em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/1200px-42_Logo.svg.png"/>
-  <br/>
+ 
 </div>
 
 <div align="center">
@@ -24,5 +23,5 @@ int main(void)
 }
 ```
 
- ![Snake animation](https://github.com/Sigma1990/Sigma1990/blob/output/github-contribution-grid-snake.svg)
+
  
