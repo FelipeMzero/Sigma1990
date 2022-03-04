@@ -1,6 +1,6 @@
-### Hi there 👋
+### Nem leia
 
-## Olá, sou o Zero
+## am i really a necessary person?
 
 <div align="center">
   <h1> Um user ai</h1>
