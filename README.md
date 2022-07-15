@@ -1,4 +1,4 @@
-### Nem leia
+### XD
 
 ## am i really a necessary person?
 
@@ -16,8 +16,8 @@
 int main(void)
 {
   char name[] = "Zero";
-  int age = 18;
-  char programming_languages[] = "Java and Python";
+  int age = 19;
+  char programming_languages[] = "Java, Python and shell";
   
   return (0)
 }
