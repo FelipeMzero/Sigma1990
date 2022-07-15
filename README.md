@@ -3,7 +3,7 @@
 ## am i really a necessary person?
 
 <div align="center">
-  <h1> Um user ai</h1>
+  <h1> Não é que você saiba pouco, é que sempre se tem algo a mais</h1>
  
 </div>
 
