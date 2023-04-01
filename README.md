@@ -12,8 +12,8 @@
 
 <div align="center">
   <a href="https://github.com/FelipeMzero">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MacosPrintes001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MacosPrintes001&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeMzero&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMzero&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
 ## Tecnologias tenho conhecimento basico
