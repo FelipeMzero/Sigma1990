@@ -47,7 +47,8 @@
   <h2>🐍 Minhas Contribuições 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/FelipeMzero/FelipeMzero/main/.github/workflows/github-contribution-grid-snake.svg" />
-  
+</div>
+
   <br/><br/><br/>
 </div>
 
