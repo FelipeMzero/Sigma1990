@@ -35,10 +35,16 @@
  <hr/>
  
 <h2 align="center">⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
-<br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,android,html5,css3,javascript" /><br>
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" width="50" alt="Java">
+    <img src="https://img.icons8.com/color/48/000000/python.png" width="50" alt="Python">
+    <img src="https://img.icons8.com/color/48/000000/css3.png" width="50" alt="CSS3">
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" width="50" alt="HTML5">
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" width="50" alt="JavaScript">
+    <img src="https://img.icons8.com/color/48/000000/kotlin.png" width="50" alt="Kotlin">
+    <img src="https://img.icons8.com/color/48/000000/php.png" width="50" alt="PHP">
 </div>
+
 
 <br/>
 <hr/>
