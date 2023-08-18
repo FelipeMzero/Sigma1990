@@ -42,15 +42,12 @@
 
 <br/>
 <hr/>
-
 <div align="center">
   <h2>🐍 Minhas Contribuições 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/FelipeMzero/FelipeMzero/main/.github/workflows/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/FelipeMzero/FelipeMzero/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
-  <br/><br/><br/>
-</div>
 
 <hr/>
 
