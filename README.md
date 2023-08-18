@@ -1,13 +1,4 @@
-### Olá! Sou o Felipe Monteiro 👺🖖
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mvprintes/)
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mvprintes2@gmail.com)
-[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MacosPrintes001)
-
-<div align="center">
-  <h1> 📘Aluno Na UFOPA💻</h1>
-</div>
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MacosPrintes001.MacosPrintes001" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=FelipeMzero.FelipeMzero" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+Sou+o+Felipe+Monteiro+👺🖖;" />
@@ -19,21 +10,25 @@
 
 <div align="center">
  
- 🔭 Atualmente estou trabalhando em **projetos acadêmicos**
+ 🔭 Atualmente estou trabalhando em **meu conhecimento em programação**
  
- 🌱 Atualmente estou aprendendo **Python, Java, HTML, CSS, JavaScript**
- 
-</div>
+ 🌱 Atualmente estou aprendendo **Python, Java, Android Studio e Desenvolvimento Web**
 
+ 💬 Pergunte-me sobre **Python, Java, Android Studio, HTML, CSS, JavaScript... ou qualquer coisa [aqui](https://github.com/FelipeMzero/FelipeMzero/issues)**
+
+ 📫 Como entrar em contato comigo **mvprintes2@gmail.com**
+ 
+ </div>
+ 
 <div align="center"> 
+  <a href="https://www.linkedin.com/in/mvprintes/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="mailto:mvprintes2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/mvprintes/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://github.com/MacosPrintes001" target="_blank">
-     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+  <a href="https://github.com/FelipeMzero">
+     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> <!-- Você também pode usar outras opções de ícone, como todoist, sqlite, safari, google-chrome -->
   </a>
 </div>
 
@@ -42,17 +37,17 @@
 <h2 align="center">⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,html5,css3,javascript" />
+    <img src="https://skillicons.dev/icons?i=python,java,android,html5,css3,javascript" /><br>
 </div>
 
 <br/>
 <hr/>
 
 <div align="center">
-<h2>🐍 Minhas Contribuições 🐍</h2>
-<br>
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/FelipeMzero/FelipeMzero/main/.github/workflows/github-contribution-grid-snake.svg" />
-
+  <h2>🐍 Minhas Contribuições 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/FelipeMzero/FelipeMzero/main/.github/workflows/github-contribution-grid-snake.svg" />
+  
   <br/><br/><br/>
 </div>
 
@@ -61,14 +56,17 @@
 <h2 align="center">⚡ Estatísticas ⚡</h2>
 <br>
 <div align=center>
-<img align="center" src="https://streak-stats.demolab.com?user=FelipeMzero&theme=dark&hide_border=&locale=pt_BR&hide_total_contributions=true" alt="GitHub Streak" />
+  <img width=390 src="https://streak-stats.demolab.com/?user=FelipeMzero&count_private=true&theme=react&border_radius=10" alt="Estatísticas de sequência" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=FelipeMzero&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="Estatísticas do README" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMzero&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Principais linguagens" />
 </div>
 
 <br/><br/>
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+por+visitar!+✌️;+Me+envie+uma+mensagem+no+LinkedIn!;Estou+sempre+disposto+a+colaborar+:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+visita!+✌️;Envie-me+uma+mensagem+no+LinkedIn!;Estou+sempre+disposto+a+colaborar+:)">
 </h3>
 
 <br/>
