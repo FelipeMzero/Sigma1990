@@ -1,0 +1,25 @@
+name: Generate GitHub contributions
+
+on:
+  workflow_run:
+    workflows: ["Build README Stats"]
+    types:
+      - completed
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: 14
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Generate stats
+        run: node generate.js
